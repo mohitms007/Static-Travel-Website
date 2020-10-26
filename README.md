@@ -1,2 +1,3 @@
 # Static-Travel-Website
-A static webstie made using css HTML and bootstrap
+A Travel Website Template made using HTML/CSS and bootstrap.
+You can use it freely.
